@@ -1,0 +1,17 @@
+@import url("https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css");
+
+:root {
+    --font-wanted: "Wanted Sans", sans-serif;
+
+
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+    --color-primary: #477AFF;
+    --color-primary-hover: #3F6BFF;
+    --color-danger: #da373c;
+    --color-danger-hover: #c83237;
+    --color-warning: #FFA940;
+    --color-warning-hover: #ed9d3b;
+    --color-success: #52C41A;
+    --color-success-hover: #65b935;
+}
